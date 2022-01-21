@@ -10,4 +10,4 @@ A project that provides insights on premier league data using match day stats.
   <img src="Resources/Preview.png">
 </p>
 
-link to the dashboard: Xhttps://docs.google.com/spreadsheets/d/14VhhZegyzWsv0lCURQityHidiw9ew-L4aySuonY2P9I/edit?usp=sharing
+link to the dashboard: https://docs.google.com/spreadsheets/d/14VhhZegyzWsv0lCURQityHidiw9ew-L4aySuonY2P9I/edit?usp=sharing
